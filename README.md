@@ -1,5 +1,9 @@
-# O.R.C.A Site
-Website playground for the orca model
+O.R.C.A Wesite
+
+Website made for the orca model for our thesis entitled "An Internet of Things and Machine Learning Approach of Predicting Hydrological 
+Risk Intensities in Coastal Areas Within Davao City"
+
+I am the one who created the front-end design development of this website. I'm partnerd with Mr. John Mark Bago-od, he was the one who managed the backend development. 
 
 [link here](https://jmmaa-orca-site-main-um2qxa.streamlit.app/)
 
